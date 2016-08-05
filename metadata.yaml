@@ -1,0 +1,31 @@
+_repo: '-----Volume-22-26_7316'
+_version: 0.0.1
+alternative_title: Mengxi Bi Tan, Volume 22-26 [1031-1095 A.D.]
+creator:
+  author:
+    agent_name: Shen, Kuo
+    aliases:
+    - 沈括
+    - Shen, Gua
+    birthdate: 1031
+    deathdate: 1095
+    gutenberg_agent_id: '2419'
+    url: http://www.gutenberg.org/2009/agents/2419
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E6%B2%88%E6%8B%AC
+    - http://en.wikipedia.org/wiki/Shen_Kuo
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7316'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+- !lcc 'PL'
+- GITenberg
+title: 夢溪筆談, Volume 22-26
+url: http://www.gutenberg.org/ebooks/7316
