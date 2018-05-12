@@ -1,6 +1,9 @@
 _repo: '-----Volume-22-26_7316'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Mengxi Bi Tan, Volume 22-26 [1031-1095 A.D.]
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shen, Kuo
@@ -15,6 +18,8 @@ creator:
     - http://zh.wikipedia.org/wiki/%E6%B2%88%E6%8B%AC
     - http://en.wikipedia.org/wiki/Shen_Kuo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7316#-----Volume-22-26
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
